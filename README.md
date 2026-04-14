@@ -1,10 +1,9 @@
-<img src="header.svg" alt="Lun Sireyvorth — Full Stack Developer" width="100%" />
-
-<br/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;System+Design+%7C+API+%7C+Database;Building+Real-World+Systems;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+%7C+Backend+%7C+APIs;React+%7C+Node.js+%7C+Database+Design;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+%7C+Security;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+</p>
+<img src="header.svg" alt="Lun Sireyvorth — Full Stack Developer" width="100%" />
 
 ---
 
@@ -63,16 +62,52 @@ Backend-focused developer passionate about **system design, API architecture, an
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Coffee Management System
-Console-based application built in C++ featuring user authentication, menu CRUD operations, order processing, and report generation.
+---
 
-### Hotel Management System
-Built with C#. Covers the full guest lifecycle — reservations, check-in/out, room management, and reporting.
+### ☕ Coffee Management System
+> Console-based C++ application for managing café operations
 
-### Point of Sale (POS) System
-Product catalog management, order processing, and integrated payment flow for retail environments.
+#### ✨ Features
+- 🔐 User Login System (Authentication)
+- 📋 Menu Management (CRUD Operations)
+- 🛒 Order Processing System
+- 📊 Sales & Report Generation
+- 💾 File Handling (Data Storage)
+
+#### 🧠 Tech Stack
+`C++` • `OOP` • `File Handling`
+
+---
+
+### 🏨 Hotel Management System
+> Desktop application built using C#
+
+#### ✨ Features
+- 👤 Guest Reservation System
+- 🛏️ Room Booking & Availability Check
+- 🏷️ Check-in / Check-out Management
+- 📊 Revenue & Booking Reports
+- 💾 Data Persistence (File/Database)
+
+#### 🧠 Tech Stack
+`C#` • `.NET` • `OOP` • `File Handling`
+
+---
+
+### 🧾 Point of Sale (POS) System
+> Retail billing system for managing sales and inventory
+
+#### ✨ Features
+- 🛍️ Product Catalog Management
+- 🧾 Order & Billing System
+- 💳 Payment Processing Flow
+- 📦 Inventory Tracking
+- 📊 Sales Reports & Analytics
+
+#### 🧠 Tech Stack
+`C#` • `System Design` • `OOP` • `Data Management`
 
 ---
 
@@ -90,11 +125,31 @@ Product catalog management, order processing, and integrated payment flow for re
 
 ---
 
-## Contact
+## 🎯 Goals of These Projects
 
-- **Email:** lunsereyvorth@email.com
-- **Facebook:** [lunsireyvorth](https://web.facebook.com/lunsireyvorth)
-- **LinkedIn:** *(add your link here)*
+- Build real-world systems, not just tutorials  
+- Improve problem-solving & software architecture skills  
+- Practice clean, maintainable, and scalable code  
+- Prepare for backend / full-stack development roles  
+
+---
+
+## 📌 Future Improvements
+
+- 🌐 Web version of POS System  
+- 🗄️ Database integration (SQL / MongoDB)  
+- 🔐 Role-based access control system  
+- 📱 GUI improvements (WPF / WinForms)  
+- ☁️ Cloud deployment  
+
+---
+
+## 👤 Author
+
+**Your Name**  
+📧 your-email@example.com  
+🌐 https://your-portfolio-link.com  
+💼 Full Stack Developer (C++ / C# / .NET)
 
 ---
 
