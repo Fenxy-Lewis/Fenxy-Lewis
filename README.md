@@ -1,85 +1,103 @@
-<h1 align="center">👋 Hi, I'm Lun Sireyvorth</h1>
-<h3 align="center">💻 Full Stack Web Developer | C++ & C# | System Builder</h3>
+<img src="header.svg" alt="Lun Sireyvorth — Full Stack Developer" width="100%" />
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;C%2B%2B+%7C+C%23+Developer;Building+Real+World+Systems;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fenxy-Lewis&label=Profile+Views&color=blue" />
-  <img src="https://img.shields.io/github/followers/Fenxy-Lewis?label=Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;System+Design+%7C+API+%7C+Database;Building+Real-World+Systems;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </p>
 
 ---
 
-## 👨‍💻 About Me | អំពីខ្ញុំ
+## About
 
-* 🎓 IT Student & Backend Developer
-* 💼 Interested in **System Design, API, Database**
-* 🔐 Learning **Networking & Ethical Hacking**
-* 🚀 Goal: Become a **Senior Software Engineer**
+Backend-focused developer passionate about **system design, API architecture, and databases**. Currently studying IT while building real-world systems that solve practical problems. Expanding into **networking and ethical hacking** to deepen my understanding of security.
 
----
-
-## 💻 Tech Stack | បច្ចេកវិទ្យា
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Goal:** Senior Software Engineer.
 
 ---
 
-## 🚀 Projects | គម្រោង
+## Focus Areas
 
-### ☕ Coffee Management System
-
-* Console-based system using C++
-* Features: Login, Menu CRUD, Order, Report
-
-### 🏨 Hotel Management System
-
-* Built with C#
-* Features: Booking, Check-in/out, Reports
-
-### 🛒 POS System
-
-* Product sale system
-* Order & Payment management
+| Core Expertise | Currently Learning |
+|---|---|
+| System Design & Architecture | Networking & Protocols |
+| REST API Development | Ethical Hacking & Security |
+| Database Design (SQL & NoSQL) | Cloud Infrastructure (AWS) |
+| Backend Development | DevOps & Containerization |
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Projects
+
+### Coffee Management System
+Console-based application built in C++ featuring user authentication, menu CRUD operations, order processing, and report generation.
+
+### Hotel Management System
+Built with C#. Covers the full guest lifecycle — reservations, check-in/out, room management, and reporting.
+
+### Point of Sale (POS) System
+Product catalog management, order processing, and integrated payment flow for retail environments.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenxy-Lewis&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenxy-Lewis&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Fenxy-Lewis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenxy-Lewis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fenxy-Lewis&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
 
 ---
 
-## 📈 Top Languages
+## Contact
+
+- **Email:** lunsereyvorth@email.com
+- **Facebook:** [lunsireyvorth](https://web.facebook.com/lunsireyvorth)
+- **LinkedIn:** *(add your link here)*
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenxy-Lewis&layout=compact&theme=tokyonight" />
+  <i>"I love building real-world systems and solving problems with code."</i>
 </p>
-
----
-
-## 📫 Contact | ទំនាក់ទំនង
-
-* 📧 Email: [lunsereyvorth@email.com](mailto:your@email.com)
-* 🌐 Facebook: https://web.facebook.com/lunsireyvorth
-* 💼 LinkedIn: your-link
-
----
-
-## ⚡ Fun Fact
-
-> 💡 I love building real-world systems and solving problems with code.
-
----
-
-## 🎯 Quote
-
-> "Code is not just code, it's a solution."
-
----
